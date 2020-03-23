@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <key>default_portuguese_name</key>
+    <value><![CDATA[Português de Portugal]]></value>
+  </definition>
+  <definition>
+    <key>default_portuguese_note</key>
+    <value><![CDATA[<b>Atenção!</b> Por favor active a extensão e active a língua em Sistema->Localizações-><a href="#admin#rt=localisation/language">Linguagem</a>.<br><b>Editar texto</b>: Se a tradução estiver incorrecta, você pode corrigir o texto em Sistemas->Localizações-><a href="#admin#rt=localisation/language_definitions">Definições de Límgua</a><br><b>Texto em falta: </b> If you add new language you need to update store content (dynamic shopping cart data) to have new language translation.<br>This can be done automatically with "Load missing language data" in edit language section]]></value>
+  </definition>
+</definitions>
